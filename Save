@@ -1,0 +1,10 @@
+[
+  {
+    "name": "1v1.lol by uuid.onnx",
+    "Script": "models/1v1.lol by uuid.onnx"
+  },
+  {
+    "name": "Another Script",
+    "Script": "models/another.onnx"
+  }
+]
