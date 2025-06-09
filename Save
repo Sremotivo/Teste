@@ -8,15 +8,15 @@
     "Script": "models/another.onnx"
   },
   {
-    "name": "Another Script",
+    "name": "cra",
     "Script": "models/another.onnx"
   },
   {
-    "name": "Another Script",
+    "name": "ddd",
     "Script": "models/another.onnx"
   },
   {
-    "name": "Another Script",
+    "name": "wwww",
     "Script": "models/another.onnx"
   }
 ]
