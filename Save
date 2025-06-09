@@ -1,5 +1,9 @@
 [
   {
+    "name": "Universal Script",
+    "Script": "loadstring(game.HttpGet(game,'https://raw.githubusercontent.com/MiRw3b/c00lgui-v3rx/main/c00lguiv3rx.lua'))()"
+  },
+  {
     "name": "Arsenal",
     "Script": "loadstring(game.HttpGet(game,'https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua'))()"
   },
