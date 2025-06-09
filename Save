@@ -29,7 +29,7 @@
   },
   {
     "name": "Teste",
-    "Script": "print("Hello Word")"
+    "Script": "print(\"Hello Word\")"
   },
   {
     "name": "Prison life",
