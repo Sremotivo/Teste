@@ -36,8 +36,8 @@
     "Script": "loadstring(game.HttpGet(game,'https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'))()"
   },
   {
-    "name": "ddd",
-    "Script": "models/another.onnx"
+    "name": "Strongest battle ground",
+    "Script": "loadstring(game.HttpGet(game,'https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt'))()"
   },
   {
     "name": "wwww",
