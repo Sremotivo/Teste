@@ -33,11 +33,11 @@
   },
   {
     "name": "Prison life",
-    "Script": "loadstring(game.HttpGet(game,\'https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife\'))()"
+    "Script": ""
   },
   {
     "name": "Strongest battle ground",
-    "Script": "loadstring(game.HttpGet(game,\'https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt\'))()"
+    "Script": ""
   },
   {
     "name": "wwww",
