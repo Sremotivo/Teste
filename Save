@@ -18,5 +18,25 @@
   {
     "name": "wwww",
     "Script": "models/another.onnx"
+  },
+  {
+    "name": "1v1.lol by uuid.onnx",
+    "Script": "models/1v1.lol by uuid.onnx"
+  },
+  {
+    "name": "Another Script",
+    "Script": "models/another.onnx"
+  },
+  {
+    "name": "cra",
+    "Script": "models/another.onnx"
+  },
+  {
+    "name": "ddd",
+    "Script": "models/another.onnx"
+  },
+  {
+    "name": "wwww",
+    "Script": "models/another.onnx"
   }
 ]
