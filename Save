@@ -25,7 +25,7 @@
   },
   {
     "name": "Blox Fruits",
-    "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()"
+    "Script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau\"))()"
   },
   {
     "name": "Another Script",
