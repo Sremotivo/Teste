@@ -24,8 +24,8 @@
     "Script": "loadstring(game.HttpGet(game,'https://raw.githubusercontent.com/dementiaenjoyer/homohack/main/loader.lua'))()"
   },
   {
-    "name": "1v1.lol by uuid.onnx",
-    "Script": "models/1v1.lol by uuid.onnx"
+    "name": "Blox Fruits",
+    "Script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()"
   },
   {
     "name": "Another Script",
